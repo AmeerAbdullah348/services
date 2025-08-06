@@ -20,7 +20,7 @@ const corsOptions = {
     "http://localhost:8080",
     "http://localhost:5173",
     "http://localhost:3001",
-    "https://your-frontend-domain.vercel.app", // Replace this with your actual frontend URL
+    "https://audio-stream-caster-o6q2.vercel.app/", // Replace this with your actual frontend URL
     /\.vercel\.app$/, // Allow all vercel apps for development
     /localhost:\d+$/, // Allow all localhost ports for development
   ],
